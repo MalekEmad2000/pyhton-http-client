@@ -1,0 +1,7 @@
+GET /testfileforpost.txt 192.168.56.1 5050
+POST abc.txt 192.168.56.1 5050
+POST abc.txt 192.168.56.1 5050
+GET /index.txt 192.168.56.1 5050
+POST abc.txt 192.168.56.1 5050
+POST abc.txt 192.168.56.1 5050
+POST abc.txt 192.168.56.1 5050
